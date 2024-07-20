@@ -1,0 +1,12 @@
+body {
+    background-color: light-red;
+}
+.profile-photo {
+  width: 150px;
+  height: 150px;
+}
+td {
+    border: 2px mint;
+    color: brown;
+    text-align: center;
+    padding: 10px;
